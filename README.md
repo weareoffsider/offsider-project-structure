@@ -1,0 +1,1 @@
+# offsider-project-structure
